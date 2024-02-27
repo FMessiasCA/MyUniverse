@@ -1,0 +1,7 @@
+main p a {
+  color: #8787d6;
+}
+
+main p a:hover {
+  color: #1717dd;
+}
